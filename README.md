@@ -23,8 +23,7 @@ Built for anyone who wants to save time and stay organized after meetings.
 ---
 
 ## 📸 Demo
-
-*(Add a screenshot here after running your app)*
+<img width="922" height="474" alt="Screenshot 2026-03-26 at 9 34 22 PM" src="https://github.com/user-attachments/assets/b1168b40-a89a-4794-b9f2-0b79938f1724" />
 
 ---
 
@@ -94,6 +93,7 @@ Discussion about hiring more engineers.
 
 ## 👤 Author
 
-Built by [Your Name]
+Built by Terence D. Lewis
+
 
 ---
